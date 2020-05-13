@@ -53,11 +53,9 @@ This is very unlikely to occur during COVID-19 lockdowns.
 Therefore, we shouldn't worry too much about it.
 
 ## Solution?
-Maybe offer Distributed Agile and more communication( pair-programming/daily meeting/team building)  as solution?
+_In progress_
 
 ## Conclusion
-Conclude chapters
-
-## References
+_In progress_
 
 
