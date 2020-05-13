@@ -1,12 +1,8 @@
 ﻿# How can my company survive through COVID-19? Think GLOBAL! 
 
-The ... COVID-19 virus . The infectious. Some countries has implemented partial lock-down while other countries implemented full lock-downs.  
-
-During this crisis, our collegaes and us are all co-located and face-to-face collaboration is unfortunately impossible. 
-GDSE (Globally Distributed Software Engineering) is o
-
-In this blogpost we will talk about some principles in GDSE and how it can be applied to 
-
+In December 2019, the novel coronavirus 2019-nCoV emerged in the Chinese city Wuhan. This infectious disease has shortly become a global pandemic and caused major disruptions in our economical society. The lock-down measures prevented our normal way of working. 
+Due to governmental lock-downs, most of us are co-located and face-to-face collaboration is unfortunately impossible. We are forced to stay home while continuing with our work. 
+This situation may look very similar to Globally Distributed Software Engineering. GDSE is a discipline which focuses on distributed design, implementation and validation of software products and/or components. The idea and researches of GDSE are crucial now since they can provide us with interesting insights on how distributed workspaces and projects can be conducted. In this blogpost we will talk about some principles in GDSE; whether they can be applied to the era of COViD-19 lock-down and provide some guidance.
 ## Distances:
 
 In GDSE, there are four environmental/external factors that are well studied: Geographical, Temporal, Language and Cultural. While all four factors are closely related. Effect of external factors are often studied independently, since these factors do not necessarily occur together. Therefore we think this will be an very interesting point for SE teams to look at!
@@ -39,4 +35,5 @@ Conclude chapters
 
 
 ## References
+
 
