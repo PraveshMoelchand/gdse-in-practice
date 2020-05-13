@@ -52,10 +52,14 @@ Temporal distances are also often called timezone distances.
 This is very unlikely to occur during COVID-19 lockdowns.
 Therefore, we shouldn't worry too much about it.
 
+## Internal Factors
+TODO: Write something about 4 internal factors:
+project's organizational structure, the development process, communication and collaboration issues.
+
 ## Solution?
-_In progress_
+Maybe offer Distributed Agile and more communication( pair-programming/daily meeting/team building)  as solution?
 
 ## Conclusion
-_In progress_
+Conclude chapters
 
 
