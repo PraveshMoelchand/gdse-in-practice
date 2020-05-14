@@ -8,7 +8,8 @@ tags:
   - co-located
 ---
 Working in a team comes with many challenges. When done well the productivity and efficiency will also improve.
-The first and most important factor is communication. As we know covid-19 has forced us in a position where we have to work remotely.
+The first and most important factor is communication. As we know COVID-19 has
+forced us in a position where we have to work remotely.
 This affects the communication as it can no longer be performed in a co-located environment. 
 
 It is important to look into alternative tools that allow the communication between team members over a long distance. 
@@ -44,7 +45,7 @@ These tools will improve the productivity, but often they also come with a high 
 
 
 ## Conclusion
-As can be seen in previous section. There is no clear line between these categories and some tools are capable of performing multiple tasks. 
-There is no clear tool that comes at the top. As every team has different requirements so will the performance of the tools be affected.
+As can be seen in previous section, there is no clear line between these categories and some tools are capable of performing multiple tasks. 
+There is no clear tool that comes out on top. As every team has different requirements so will the performance of the tools be affected.
 What should be taken in account is that these three categories cover most of communication needed in a team. 
 So having tools that cover all these three will make sure that the communication in the team is possible.
