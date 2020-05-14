@@ -3,6 +3,24 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The current COVID-19 crisis and has software engineers all over the world 
+working from home. Engineers that are used to in-person meetings and just 
+"dropping by" to ask questions to colleagues, now find themselves having to use 
+instant-messaging, e-mailing and video-conferencing instead.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+GDSE, short for "Globally Distributed Software Engineering", is a field that
+researches the tools, principles and challenges of building software with
+globally distributed teams.
+
+We, a team of 4 students from the University of Technology Delft, are
+conducting research on what principles and tools we can use from the GDSE
+field to make software engineering a little bit easier during these
+challenging times.
+
+The website you are looking at right now is the result of this research. We
+have tried our utter best to write clear and concise blog posts that are
+hopefully useful for any software engineer currently working from home.
+
+
+
+
