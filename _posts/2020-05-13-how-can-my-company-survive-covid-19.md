@@ -1,9 +1,9 @@
 ﻿---
-title: "How can my company survive through COVID-19? Think GLOBAL!"
+title: "How can my company survive through COVID-19? Think DISTRIBUTED! - Part 1"
 categories:
   - Blog
 tags:
-  - covid-19
+  - COVID-19
   - meta
 ---
 
@@ -45,17 +45,11 @@ Similar to geographical distance, most researchers again put emphasis on documen
 project. However, increasing informal communication seemed to be effective in narrowing the distance as well. 
 For example, the management/team leaders can organize team members for cultural differences with online team-building 
 projects or do daily coffee stands. 
-These informal meet-ups should reduce the tension and stress between members! 
+These informal meet-ups should reduce the tension and stress between members! [^reference]
 
 ### Temporal
 Temporal distances are also often called timezone distances.
 This is very unlikely to occur during COVID-19 lockdowns.
 Therefore, we shouldn't worry too much about it.
 
-## Solution?
-_In progress_
-
-## Conclusion
-_In progress_
-
-
+[^reference]: This is a reference.
