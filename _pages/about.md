@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-The current COVID-19 crisis and has software engineers all over the world 
+The current COVID-19 crisis has software engineers all over the world 
 working from home. Engineers that are used to in-person meetings and just 
 "dropping by" to ask questions to colleagues, now find themselves having to use 
 instant-messaging, e-mailing and video-conferencing instead.
