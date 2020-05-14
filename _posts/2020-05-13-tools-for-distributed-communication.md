@@ -41,11 +41,11 @@ However in order to work together on the product itself efficiently, other tools
 To make sure that the communication in the team works effectively there should also be tools that promote collaborative work in a remote setup. 
 These tools will improve collaborative working such as pair programming, organizational processes. 
 Some tools that accomplish this are Git, Github, OneDrive, Google Drive, Trello, MediaFire, Atom, Visual Studio etc.
-These tools will improve the productivity, but often they also come with a high price tag.
+These tools will improve the productivity and often have a free tier available which already offers a lot of useful functionality. In addition, individuals and businesses can decide to spend a little extra to get more out of these services.
 
 
 ## Conclusion
-As can be seen in previous section, there is no clear line between these categories and some tools are capable of performing multiple tasks. 
+As can be seen in the previous section, there is no clear line between these categories and some tools are capable of performing multiple tasks. 
 There is no clear tool that comes out on top. As every team has different requirements so will the performance of the tools be affected.
-What should be taken in account is that these three categories cover most of communication needed in a team. 
-So having tools that cover all these three will make sure that the communication in the team is possible.
+What should be taken in account is that these three categories cover most of the communication needed in a team. 
+So, having tools that cover all these three areas of working together will make sure that the communication in the team is more effective when working in a distributed setting.
