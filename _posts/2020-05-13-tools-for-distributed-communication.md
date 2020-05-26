@@ -24,8 +24,7 @@ For every category we will give a number of examples and from this analysis we w
 ### Tools for group discussions
 Here we will look into tools that do not require much interaction between the team members, but are always available and primarily used for asking question and general discussions.
 Several tools that focus on group discussions are Slack, Whatsapp, Trello, ChannelME, Flowdock, ProofHub, Twist, ChatWork and many more.
-These tools are used in almost every single project as they are often cheap and make sure that the teams remain connected. However there is more interaction required in order to build a healthy team relationship and maintain productivity.
-Thus only using these tools will not be sufficient in a remote setup.
+These tools are used in almost every single project as they are often cheap and make sure that the teams remain connected. 
 
 
 ### Tools for meetings
@@ -33,18 +32,16 @@ It is important to have an update about the weekly development and create a plan
 Meetings are the solution for these requirements. The best option in a remote setup is by meeting through video/audio calls. 
 Some tools that are capable of accomplishing this are Microsoft Teams, HipChat, Zoom, Skype, G Suite, Office 365 etc.
 Using video-calls are the closest thing next to co-located working. Most of these tools also have a screen sharing option allowing for collaborative work.
-However in order to work together on the product itself efficiently, other tools are capable of performing the job better.
 
 
 ### Tools for collaborative work
 To make sure that the communication in the team works effectively there should also be tools that promote collaborative work in a remote setup. 
 These tools will improve collaborative working such as pair programming, organizational processes. 
 Some tools that accomplish this are Git, Github, OneDrive, Google Drive, Trello, MediaFire, Atom, Visual Studio etc.
-These tools will improve the productivity, but often they also come with a high price tag.
+These tools will improve the productivity.
 
 
 ## Conclusion
-As can be seen in previous section. There is no clear line between these categories and some tools are capable of performing multiple tasks. 
-There is no clear tool that comes at the top. As every team has different requirements so will the performance of the tools be affected.
-What should be taken in account is that these three categories cover most of communication needed in a team. 
-So having tools that cover all these three will make sure that the communication in the team is possible.
+As can be seen in previous section, one tool is not sufficient to cover all the communication in a team. As every team has different requirements so will the performance of the tools be affected.
+What should be taken in account is that these three categories cover most of the communication needed in a team. 
+So having tools that cover all these three categories will make sure that the communication in the team is effective.
