@@ -15,7 +15,7 @@ forced us in a position where we have to work remotely.
 This affects the communication as it can no longer be performed in a co-located environment. 
 
 It is important to look into alternative tools that allow the communication between team members over a long distance. 
-But what tools are capable of meeting the requirements of the team? And what are these requirements?
+Is this possible? If so, what tools are generally needed to cover all the communication in a co-located setup?
 In this blog post these questions will be answered.
 
 ## Types of tools
