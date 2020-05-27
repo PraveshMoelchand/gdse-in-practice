@@ -55,7 +55,8 @@ in close proximity is hard to replicate in a remote setting[^5].
 
 ## That sounds like it won't work
 
-Yes, we will be the first to admit that there are few case studies on remote pair 
+While we would love to debunk the statement above by overloading you with scientific
+articles and evidence: we can't. There are few case studies on remote pair 
 programming on actual industry software engineering teams. 
 Few is not the same as none, however! One case study on a distributed software 
 engineering team found the following benefits when using distributed pair 
