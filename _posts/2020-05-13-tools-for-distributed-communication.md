@@ -7,15 +7,14 @@ header:
 tags:
   - covid-19
   - communication tools
-  - co-located
 ---
 Working in a team comes with many challenges. When done well the productivity and efficiency will also improve.
 The first and most important factor is communication. As we know COVID-19 has
 forced us in a position where we have to work remotely.
-This affects the communication as it can no longer be performed in a co-located environment. 
+This affects the communication as it can no longer be performed in a remote environment. 
 
 It is important to look into alternative tools that allow the communication between team members over a long distance. 
-Is this possible? If so, what tools are generally needed to cover all the communication in a co-located setup?
+Is this possible? If so, what tools are generally needed to cover all the communication in a remote setup?
 In this blog post these questions will be answered.
 
 ## Types of tools
