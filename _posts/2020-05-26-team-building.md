@@ -7,27 +7,27 @@ header:
 tags:
   - covid-19
   - team building
-  - co-located
+  - remote
 ---
 One of the biggest barrier for a team is to create an atmosphere where everyone feels comfortable to speak their mind and work effectively.
 This will have a tremendous impact on the productivity of the team [^team-build-effect]. 
 
-Teambuilding is therefore an important aspect of every team that has recently been formed. But in a co-located setup is this even possible?
-Covid-19 has forced many to ask this question. In this blog we will delve further into it.
+Teambuilding is therefore an important aspect of every team that has recently been formed. But is this even possible in a remote setup?
+COVID-19 has forced many to ask themselves this question. In this blog post we will delve further into it.
 
 
 ## Team-building 
 Although there are many ways to build an effective team. We can build them down to 5 steps in general [^5-steps]:
 
 * **Step 1: Establish leadership** -  
-Establishing the right kind of leadership will make sure that the team building process will go easier.
+Establishing the right kind of leadership will make sure the team building process will go easier.
 With an authority figure that takes the responsibility of making sure that the team culture remains healthy.
 
 * **Step 2: Establish relationships with each of the team member** -
 The next step is to make sure that there is an understanding between the leader and the rest of the team. It is important that the leader is aware of the likes and dislikes of each member, so that he can keep them motivated when needed.
 
 * **Step 3: Build relationships between your team** -
-Then the relationship between the members should be formed. As this will improve the communication, cooperation and trust amongst the team.
+Then the relationship between the members should be formed, as this will improve the communication, cooperation and trust amongst the team.
 
 * **Step 4: Foster teamwork** -
 Next step is to motivate the team members to work together and continue working. This is primarily done by encouraging more communication and social activities. 
@@ -47,7 +47,7 @@ Aside from using these tools for the product-related work itself, it can also be
 ### Video games 
 A simple alternative over the games that require physical presence are games that don't require physical presence. Video games are on the forefront of these.
 These games do not have to be best in the market or expensive, but can also be simple games that be found on the web browser and require team play. 
-The biggest challenge here is knowing when to stop..
+The biggest challenge here is knowing when to stop...
 
 ### Take a personality test
 Creating an online personality test will allow the team members to know more about each other through a simple yet effective way.
