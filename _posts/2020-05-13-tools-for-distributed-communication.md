@@ -1,7 +1,9 @@
 ---
 title: "What tools can be used to maintain effective communication when not working co-located?"
-categories:
-  - Blog
+header:
+  overlay_image: /assets/images/swiss-knife-wide.jpg
+  overlay_filter: "0.5"
+  show_overlay_excerpt: false
 tags:
   - covid-19
   - communication tools
