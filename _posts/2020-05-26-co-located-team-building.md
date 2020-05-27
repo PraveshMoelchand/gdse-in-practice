@@ -1,7 +1,9 @@
 ---
 title: "Team building during COVID-19? How?!"
-categories:
-  - Blog
+header:
+  overlay_image: /assets/images/team-building.jpg
+  overlay_filter: "0.5"
+  show_overlay_excerpt: false
 tags:
   - covid-19
   - team building
