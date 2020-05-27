@@ -33,10 +33,9 @@ feature_row_1:
     url: "/how-can-my-company-survive-covid-19/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
-  - image_path: /assets/images/splash-image.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#"
+  - image_path: /assets/images/pair-programming.png
+    title: "Pair Programming during COVID-19"
+    url: "/pair-programming/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
 

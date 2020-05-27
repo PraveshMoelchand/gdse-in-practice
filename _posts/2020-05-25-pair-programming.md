@@ -1,7 +1,10 @@
 ---
 title: "Pair programming during COVID-19: right now is the perfect time to start"
-categories:
-  - Blog
+header:
+  overlay_image: /assets/images/pair-programming.png
+  overlay_filter: "0.5"
+  caption: "Photo credit: [**https://blog.daftcode.pl/pair-programming-demystified-730c6f0b145b**](https://blog.daftcode.pl/pair-programming-demystified-730c6f0b145b)"
+  show_overlay_excerpt: false
 tags:
   - covid-19
   - pair programming
