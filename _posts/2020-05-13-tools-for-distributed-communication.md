@@ -1,14 +1,17 @@
 ---
 title: "What tools can be used to maintain effective communication when not working co-located?"
-categories:
-  - Blog
+header:
+  overlay_image: /assets/images/swiss-knife-wide.jpg
+  overlay_filter: "0.5"
+  show_overlay_excerpt: false
 tags:
   - covid-19
   - communication tools
   - co-located
 ---
 Working in a team comes with many challenges. When done well the productivity and efficiency will also improve.
-The first and most important factor is communication. As we know covid-19 has forced us in a position where we have to work remotely.
+The first and most important factor is communication. As we know COVID-19 has
+forced us in a position where we have to work remotely.
 This affects the communication as it can no longer be performed in a co-located environment. 
 
 It is important to look into alternative tools that allow the communication between team members over a long distance. 
@@ -31,7 +34,7 @@ These tools are used in almost every single project as they are often cheap and 
 It is important to have an update about the weekly development and create a plan of approach in order to accomplish these goals. Also to make sure that the team members interact and see each others face.
 Meetings are the solution for these requirements. The best option in a remote setup is by meeting through video/audio calls. 
 Some tools that are capable of accomplishing this are Microsoft Teams, HipChat, Zoom, Skype, G Suite, Office 365 etc.
-Using video-calls are the closest thing next to co-located working. Most of these tools also have a screen sharing option allowing for collaborative work.
+Using video-calls are the closest thing next to co-located working. Most of these tools also have a screen sharing option allowing for collaborative work as well.
 
 
 ### Tools for collaborative work
@@ -45,3 +48,4 @@ These tools will improve the productivity.
 As can be seen in previous section, one tool is not sufficient to cover all the communication in a team. As every team has different requirements so will the performance of the tools be affected.
 What should be taken in account is that these three categories cover most of the communication needed in a team. 
 So having tools that cover all these three categories will make sure that the communication in the team is effective.
+
