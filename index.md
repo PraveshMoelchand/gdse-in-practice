@@ -24,13 +24,13 @@ feature_row_1:
     alt: "What tools can be used to maintain effective communication when not working co-located?"
     title: "Tools for surviving COVID-19"
     excerpt: ""
-    url: "/blog/tools-for-distributed-communication/"
+    url: "/tools-for-distributed-communication/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
   - image_path: /assets/images/splash-image.jpg
     alt: "How can my company survive through COVID-19? Think DISTRIBUTED! - Part 1"
     title: "How can my company survive through COVID-19? Think DISTRIBUTED! - Part 1"
-    url: "/blog/how-can-my-company-survive-covid-19/"
+    url: "/how-can-my-company-survive-covid-19/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
   - image_path: /assets/images/splash-image.jpg
