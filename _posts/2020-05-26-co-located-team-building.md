@@ -16,7 +16,7 @@ Teambuilding is therefore an important aspect of every team that has recently be
 Covid-19 has forced many to ask this question. In this blog we will delve further into it.
 
 
-## Team-building in general
+## Team-building 
 Although there are many ways to build an effective team. We can build them down to 5 steps in general [^5-steps]:
 
 * **Step 1: Establish leadership** -  
