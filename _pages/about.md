@@ -25,4 +25,3 @@ A multitude of topics are discussed, including blog posts about: the
 importance of daily standup meetings, tools that can be used to maintain
 effective communication, pair programming from a distance. Find out more on our
 [_What's Next_](https://www.gdse-in-practice.com/next/) page!
-

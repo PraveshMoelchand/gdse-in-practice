@@ -1,6 +1,4 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "What's Next?"
     url: /next/
   - title: "About"
