@@ -20,7 +20,7 @@ intro:
 
 
 feature_row_1:
-  - image_path: /assets/images/splash-image.jpg
+  - image_path: /assets/images/swiss-knife.jpg
     alt: "What tools can be used to maintain effective communication when not working co-located?"
     title: "Tools for surviving COVID-19"
     excerpt: ""

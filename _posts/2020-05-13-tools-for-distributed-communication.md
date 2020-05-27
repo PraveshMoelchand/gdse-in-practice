@@ -1,9 +1,8 @@
 ---
 title: "What tools can be used to maintain effective communication when not working co-located?"
 header:
-  overlay_image: /assets/images/splash-image.jpg
+  overlay_image: /assets/images/swiss-knife-wide.jpg
   overlay_filter: "0.5"
-  caption: "Photo credit: [**NASA Earth Observatory/NOAA NGDC**](https://www.nasa.gov/mission_pages/NPP/news/earth-at-night.html)"
   show_overlay_excerpt: false
 tags:
   - covid-19
