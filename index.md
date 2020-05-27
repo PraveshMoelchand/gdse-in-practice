@@ -20,17 +20,15 @@ intro:
 
 
 feature_row_1:
-  - image_path: /assets/images/swiss-knife.jpg
-    alt: "What tools can be used to maintain effective communication when not working co-located?"
-    title: "Tools for surviving COVID-19"
-    excerpt: ""
-    url: "/tools-for-distributed-communication/"
+  - image_path: /assets/images/splash-image.jpg
+    title: "Think distributed"
+    url: "/how-can-my-company-survive-covid-19/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
-  - image_path: /assets/images/splash-image.jpg
-    alt: "How can my company survive through COVID-19? Think DISTRIBUTED! - Part 1"
-    title: "How can my company survive through COVID-19? Think DISTRIBUTED! - Part 1"
-    url: "/how-can-my-company-survive-covid-19/"
+  - image_path: /assets/images/swiss-knife.jpg
+    title: "Useful tools"
+    excerpt: ""
+    url: "/tools-for-distributed-communication/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
   - image_path: /assets/images/pair-programming.png
