@@ -9,27 +9,27 @@ tags:
 
 It is 2020: pair programming has undoubtedly claimed its spot in modern software 
 development. A number of scientific studies have shown that pair programming has 
-an overal net positive effect on software quality[^1][^2], although there are 
+an overall net positive effect on software quality[^1][^2], although there are 
 exceptions[^3].
 
-If you've been pair programming before the pandemic struck: good! This short post 
+If you've been pair programming before the pandemic struck: good practice! This short post 
 might help making your remote pair programming sessions more effective.
 
 If pair programming is not engrained into your company-culture just yet: now is 
 a great time to start! Really! This sounds counter-intuitive, but right now, with 
 the whole engineering team working from home, pair programming is a perfect 
-activity to stay in touch with your colleagues. It might just be the team-building 
-activity that pulls your team through the pandemic. This article may help you 
-convince your manager or team-lead and help you get started.
+activity to stay in touch with your colleagues. It might *just* be the team-building 
+activity that pulls your team through the pandemic. This blog post may help
+convince your manager or team-lead to start using pair programming and help you get started.
 
 A word of warning: contrary to "co-located" pair programming, remote pair 
 programming has received relatively little attention from the scientific community. 
-Some of this is uncharted territory. Therefore, YMMV. Nevertheless, we've tried 
-to compose this little blog post in which we outline how to perform remote pair 
-programming *successfully*, using studies from the field of Globally Distributed
+Some of this is uncharted territory. Therefore, [YMMV](https://dictionary.cambridge.org/dictionary/english/ymmv). 
+Nevertheless, we've tried to compose this little blog post in which we outline how to perform 
+remote pair programming *successfully*, using studies from the field of Globally Distributed
 Software Engineering.
 
-## What elements make co-located pair programming successful?
+### What elements make co-located pair programming successful?
 
 In his 1998 paper "Side-by-side collaboration" [^4] Nick V. Flor investigates the
  properties that effective pairs all share:
@@ -50,7 +50,7 @@ and endorse, not complicate, the properties listed above. This is tough, because
 the implicit information infrastructure that we take for granted when working 
 in close proximity is hard to replicate in a remote setting[^5].
 
-## That sounds like it won't work
+### That sounds like it won't work
 
 Yes, we will be the first to admit that there are few case studies on remote pair 
 programming on actual industry software engineering teams. 
@@ -71,16 +71,16 @@ integration and UI tests where they might have skipped them otherwise (we all
 have been there).
 
 *Increased trust*. As the pairs progressed through the project, they learned to 
-trust each others abilities more.
+trust each other's abilities more.
 
-*Knowledge transfer*. Two programmers know more than one: by pairing them they
-are able to transfer eachothers knowledge more (effectively) than they would 
-have done otherwise.
+*Knowledge transfer*. Two programmers know more than one: by pairing them, they
+are able to transfer each other's knowledge more (effectively) than they would 
+have been otherwise.
 
 Convinced yet? Good! [Over here](https://github.com/kkemple/awesome-pair-programming)
 is a great list of tools and resources that you can use to start pair programming remotely,
-right now. We also have a [blog post](https://www.gdse-in-practice.com/blog/tools-for-distributed-communication/)
-in which we explore effective tools that you can use during the pandemic.
+right now. We also have a [blog post](https://www.gdse-in-practice.com/tools-for-distributed-communication/)
+in which we explore effective tools that you can use in general during the pandemic.
 
 
 
