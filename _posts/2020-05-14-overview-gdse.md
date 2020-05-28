@@ -29,45 +29,41 @@ As the team is distributed globally, it is very likely that the team members com
 
 
 #### Geographical distance
-When working in a global setting, there is of course geographical distance. 
+When working in a global setting, there is of course geographical distance. With large geographical distance, it becomes harder to work on team building as the team members are physically separated.
 
-## Distances
-In GDSE, there are four environmental/external factors that are well studied: Geographical, Temporal, Language and Cultural. 
-While all four factors are closely related, researchers study these factors independently, since they do not necessarily occur together. 
-Therefore, we think this will be a very interesting point for SE teams to look at!
+#### Temporal distance
+As side effect of the geographical distance can be temporal distance: team members work in different time zones. Even if you use [great technological tools](https://www.gdse-in-practice.com/tools-for-distributed-communication/), a time zone difference creates practical problems because team members are not working in the same time window.
 
-### Geographical  
-GDSE usually takes place at least two geographic locations on at least different two continents. 
-While coronavirus does not instantly send your colleagues/employees to other sides of the globe , the lockdown measures prohibits any physical (face-to-face) meetings.
-Therefore, a link between geographical distance and a COVID-19 lockdown is not far-fetched.
+### Forces on GDSE
+There several forces that make GDSE more challenging and forces that help overcome these challenges. These so-called centrifugal(negative) and centripetal(positive) forces play an important role in the GDSE process of a company or team. They are listed below:
 
-Interestingly, while geographic distance seems to be a very serious problem in GDSE, the effects of geographic distance on coordination and collaboration have 
-not been conclusively determined [1]. Some researchers concluded that many of the observed distance are due to factors other than the simple geographical distance [2]. 
-Others, such as Hinds [3], state that face-to-face communication is much more effective. Nevertheless, the importance of coordination and planning are well stated in all of these papers.
-Therefore, it is crucial to clarify distribution of goals, tasks, and responsibilities during these times. 
-The dependency between teams should also be minimized if possible.
+#### Centrifugal forces of GDSE (forces that make GDSE more challenging):
+-	Geographical dispersion
+-	Loss of communication richness
+-	Coordination breakdown
+-	Loss of team one-ness
+-	Cultural differences
 
-### Cultural and Language
-Language distance (native vs non-native) causes misunderstandings and lesser speaker acceptance due to unfamiliar
-accents in spoken language [1]. 
-This effect can also be caused by the cultural distances. 
-However, cultural distances can be more damaging, since it can lead to (different) ways of task execution, 
-management styles or even increased conflict potential. 
-While this can happen anywhere and is not necessarily unique to GDSE, the lack of physical meetings and communication 
-(Allen Curve) amplifies the problem. To add insult to injury, some studies and surveys indicate that 
-COVID-19 lockdowns lead to more tension and stress [reference link to news article]. 
+#### Centripetal forces of GDSE (forces that help overcome the challenges of GDSE):
+-	Product architecture
+-	Team building
+-	Development methodology
+-	Managerial techniques
+-	Collaborative technology
+-	Telecommunication infrastructure
 
-There are several studies on how to narrow language and culture distances. 
-Similar to geographical distance, most researchers again put emphasis on documentation and planning for the 
-project. However, increasing informal communication seemed to be effective in narrowing the distance as well. 
-For example, the management/team leaders can organize team members for cultural differences with online team-building 
-projects or do daily coffee stands. 
-These informal meet-ups should reduce the tension and stress between members! [^reference]
+### Why do GDSE?
+You might think now: 'What is the use of GDSE?', with all these challenges and caveats mentioned. Well, many companies are actually doing GDSE already[^herbsleb] and if implemented correctly the following benefits can be reaped:
+-	Access to scarce resource and expertise
+-	Faster and round-the-clock development
+-	Lower development costs due to lower wages
+-	Less geographical distance to customers
 
-### Temporal
-Temporal distances are also often called timezone distances.
-This is very unlikely to occur during COVID-19 lockdowns.
-Therefore, we shouldn't worry too much about it.
+Another reason to do GDSE could also be historical: your company may have grown from mergers and acquisitions and therefore has different sites around the world.
+
+### Conclusion
+GDSE comes with some challenges, but also has benefits. The field is improving continuously by companies and teams that practice GDSE and share there findings. The other blog posts on this website are aimed at providing you some insight in how you can manage working remotely.
 
 [^what-is-gdse]:Rini van Solingen on 'What is GDSE?'. https://www.youtube.com/watch?v=01AaU5i8-GA. Retrieved 10 May 2020
 [^hofstede]: Hofstede, G. (2001). Culture's consequences: Comparing values, behaviors, institutions and organizations across nations. Sage publications.
+[^herbsleb]: Herbsleb, J. D., & Mockus, A. (2003). An empirical study of speed and communication in globally distributed software development. IEEE Transactions on software engineering, 29(6), 481-494.

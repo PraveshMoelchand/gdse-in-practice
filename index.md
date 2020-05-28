@@ -20,11 +20,11 @@ intro:
 
 
 feature_row_1:
-  - image_path: /assets/images/splash-image.jpg
-    title: "Working remotely"
-    excerpt: "How to handle remote working during the COVID-19 crisis. This post
-    highlight the challenges encountered when working distributed."
-    url: "/how-can-my-company-survive-covid-19/"
+  - image_path: /assets/images/splash-image-europe.jpg
+    title: "Overview of GDSE"
+    excerpt: "Globally Distributed Software Engineering (GDSE): get a quickstart on
+    the topic by reading this blog post!"
+    url: "/overview-gdse/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
   - image_path: /assets/images/swiss-knife.jpg
@@ -57,11 +57,11 @@ feature_row_2:
     url: "/daily-standup-importance/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
-  - image_path: /assets/images/splash-image-europe.jpg
-    title: "Overview of GDSE"
-    excerpt: "Globally Distributed Software Engineering (GDSE), get a quickstart on
-    the topic by reading this blog post!"
-    url: "/overview-gdse/"
+  - image_path: /assets/images/splash-image.jpg
+    title: "Working remotely"
+    excerpt: "How to handle remote working during the COVID-19 crisis. This post
+    highlights the challenges encountered when working distributed."
+    url: "/how-can-my-company-survive-covid-19/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
 ---
