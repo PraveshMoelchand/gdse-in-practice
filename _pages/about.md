@@ -1,6 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "About this website"
+header:
+  overlay_image: /assets/images/splash-image-europe.jpg
+  overlay_filter: "0.5"
+  caption: "Photo credit: [**NASA Earth Observatory/NOAA NGDC**](https://www.nasa.gov/mission_pages/NPP/news/earth-at-night.html)"
+  show_overlay_excerpt: false
 ---
 
 The current COVID-19 crisis has software engineers all over the world 
