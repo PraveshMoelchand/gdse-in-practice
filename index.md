@@ -57,13 +57,6 @@ feature_row_2:
     url: "/daily-standup-importance/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
-  - image_path: /assets/images/splash-image.jpg
-    title: "Working remotely"
-    excerpt: "How to handle remote working during the COVID-19 crisis. This post
-    highlights the challenges encountered when working distributed."
-    url: "/how-can-my-company-survive-covid-19/"
-    btn_label: "Read More"
-    btn_class: "btn--light-outline"
 ---
 
 {% include feature_row id="intro" type="center" %}
