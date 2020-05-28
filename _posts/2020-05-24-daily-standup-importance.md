@@ -36,7 +36,7 @@ Misunderstandings happen because face-to-face meetings are not possible. Communi
  is hard, and information transfer is simply lower[^romein]. Yes, of course you could do a video meeting, but nothing
  beats a good old meeting in person.
 
-Unmotivated team members and misunderstanding lead to deadlines not being made. This is where the daily standups come
+Unmotivated team members and misunderstandings lead to deadlines not being made. This is where the daily standups come
  into play.
 
 ### The goals of a daily standup
@@ -72,13 +72,6 @@ members. Team bonding is worse or non-existent and deadlines are not made. Doing
 challenges by allowing team members to discuss their problems and make the whole team aware of the current progress.
 
 Wondering how to actually perform a daily standup while working remotely? Have a look at our blog post about [useful tooling](https://www.gdse-in-practice.com/tools-for-distributed-communication/).
-
-## Outline
-- Start with importance of communication
-- Relate to COVID-19 situation (KPMG link?)
-- Circle back to communication. Include something about cadence and rhythm
-- Emphasize use and importance of daily standup meetings
-- Link to blogpost about tools?
 
 [^elsinga-high-performing]: Dianne Elsinga on High Performing teams. https://www.youtube.com/watch?v=BLcqrT6PjjE. Retrieved 23 May 2020.
 [^stray]: Stray, V., Sjøberg, D. I., & Dybå, T. (2016). The daily stand-up meeting: A grounded theory study. Journal of Systems and Software, 114, 101-124.
