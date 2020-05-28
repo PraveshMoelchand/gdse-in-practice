@@ -21,28 +21,42 @@ intro:
 
 feature_row_1:
   - image_path: /assets/images/splash-image.jpg
-    title: "Think distributed"
+    title: "Working remotely"
+    excerpt: "How to handle remote working during the COVID-19 crisis. This post
+    highlight the challenges encountered when working distributed."
     url: "/how-can-my-company-survive-covid-19/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
   - image_path: /assets/images/swiss-knife.jpg
     title: "Useful tools"
-    excerpt: ""
+    excerpt: "What tools can you use when working remotely? In this post we 
+    take a look at some of the most commonly used tools."
     url: "/tools-for-distributed-communication/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
   - image_path: /assets/images/pair-programming.png
-    title: "Pair Programming during COVID-19"
+    title: "Pair programming"
+    excerpt: "Is pair programming still useful when working in a 
+    distributed setting? Find it out in this post!"
     url: "/pair-programming/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
 
 feature_row_2:
   - image_path: /assets/images/team-building.jpg
-    title: "Team building during COVID-19? How?!"
+    title: "Team building"
+    excerpt: "Team building is of great importance for productivity,
+    but how is it possible to work on team spirit remotely?"
     url: "/team-building/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
+  - image_path: /assets/images/scrum-standup-meeting.jpg
+    title: "Daily standups"
+    excerpt: "Daily standups can greatly improve the productivity of
+    a team. Read all about it in this post!"
+    url: "/daily-standup-importance/"
+    btn_label: "Read More"
+    btn_class: "btn--light-outline"    
 ---
 
 {% include feature_row id="intro" type="center" %}
