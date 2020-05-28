@@ -67,9 +67,6 @@ The paper *"How to go global: A transformative process model for the transition 
 3. Ensure an universal understanding of the requirement and update documents frequently.
 4. Prepare your team-members for cultural differences and avoid negative stereotyping.
 
-These recommendations seem to be a bit vague, but they are usefull guidelines. For example, an agile way of working is coherent with these recommendations: usage of sprints and
-Pair programming and 
-
 
 ## Conclusion
 In this blogpost we have discussed 4 internal and external factors for globally distributed software process and if they are applicable for GDSE. Furthermore, we have provided some well-researched recommendations which may help you to improve the current workspace.
