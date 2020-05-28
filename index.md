@@ -56,7 +56,14 @@ feature_row_2:
     a team. Read all about it in this post!"
     url: "/daily-standup-importance/"
     btn_label: "Read More"
-    btn_class: "btn--light-outline"    
+    btn_class: "btn--light-outline"
+  - image_path: /assets/images/splash-image-europe.jpg
+    title: "Overview of GDSE"
+    excerpt: "Globally Distributed Software Engineering (GDSE), get a quickstart on
+    the topic by reading this blog post!"
+    url: "/overview-gdse/"
+    btn_label: "Read More"
+    btn_class: "btn--light-outline"
 ---
 
 {% include feature_row id="intro" type="center" %}
